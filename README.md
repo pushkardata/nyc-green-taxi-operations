@@ -274,9 +274,7 @@ Power BI Desktop is required to open the report.
 
 ### Dashboard Preview
 
-<!-- Replace the placeholder below with your uploaded Power BI dashboard screenshot. -->
-
-![NYC Green Taxi Operations - Main Dashboard](images/nyc-green-taxi-dashboard.png)
+![NYC Green Taxi Operations - Main Dashboard](nyc-green-taxi-dashboard.png)
 
 *Main dashboard preview — replace this image with the actual Power BI dashboard screenshot.*
 
