@@ -1,0 +1,5 @@
+SourceYear,OriginalRows,Excluded_WrongYear,Excluded_InvalidDatetime,Excluded_UnknownZone,Corrected_MissingPassenger,Excluded_StoreForward,Excluded_NonStandardRate,Excluded_InvalidPayment,Excluded_NonStreetHail,Corrected_ReversedTimestamps,Excluded_Over24Hours,Excluded_ZeroDistanceZeroFare,Corrected_ZeroDistance,Corrected_ZeroFare,Corrected_AllNegativeFinancial,FinalRows
+2017,11740667,197,0,0,0,17073,251139,78297,10491,49,2,4311,67013,806,490,11379157
+2018,8807303,598,0,0,0,16691,265915,55275,11468,27,6,3016,57737,403,270,8454334
+2019,6044050,273,0,0,414107,14459,271992,38569,8767,12,48,2794,87193,730,73,5293041
+2020,1734051,53,0,0,528092,4699,37345,8918,1284,2,2,903,45887,419,5,1152755
